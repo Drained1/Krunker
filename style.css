@@ -1,0 +1,9 @@
+::-webkit-scrollbar {
+    width: 0px;
+}
+#PJS_Buffer {
+  border: none;
+}
+canvas {
+  border: 1px solid #000;
+}
